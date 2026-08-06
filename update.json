@@ -1,8 +1,8 @@
 {
-  "version": "1.3.0",
+  "version": "1.3.1",
   "downloadUrl": "https://github.com/karadurmusersan/NexaHR.Desktop.Updates/releases/download/v1.3.1/NexaHR-Commercial-v1.3.1-Setup.exe",
   "mandatory": false,
-  "notes": "NexaHR Commercial güncelleme sistemi hazırlandı.",
-  "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+  "notes": "Güvenli otomatik güncelleme sistemi, HTTPS sürüm kontrolü ve SHA-256 doğrulaması eklendi.",
+  "sha256": "FE8AF22E5EB0D1F9E793804D0F3C76AFA964B954314ABCC9B43182675B80753D",
   "fileName": "NexaHR-Commercial-v1.3.1-Setup.exe"
 }
