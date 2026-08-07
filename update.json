@@ -1,8 +1,8 @@
 {
-  "version": "1.3.1",
-  "downloadUrl": "https://github.com/karadurmusersan/NexaHR.Desktop.Updates/releases/download/v1.3.1/NexaHR-Commercial-Pilot-v1.3.1-Dashboard-Professional.exe",
+  "version": "1.3.2",
+  "downloadUrl": "https://github.com/karadurmusersan/NexaHR.Desktop/releases/download/v1.3.2/NexaHR-Desktop-Professional-v1.3.2-Setup.exe",
   "mandatory": false,
-  "notes": "Güvenli otomatik güncelleme sistemi, HTTPS sürüm kontrolü ve SHA-256 doğrulaması eklendi.",
-  "sha256": "FE8AF22E5EB0D1F9E793804D0F3C76AFA964B954314ABCC9B43182675B80753D",
-  "fileName": "NexaHR-Commercial-Pilot-v1.3.1-Dashboard-Professional.exe"
+  "notes": "NexaHR Desktop Professional v1.3.2: Ticari sürüm sağlamlaştırıldı, lisans ve otomatik güncelleme sistemi iyileştirildi, eski Pilot ve marka ifadeleri temizlendi.",
+  "sha256": "298CA7092A3995485464393730E9C87866BDEAEA299F1B650E02F6183FC2FFB1",
+  "fileName": "NexaHR-Desktop-Professional-v1.3.2-Setup.exe"
 }
